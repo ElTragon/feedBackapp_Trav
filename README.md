@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Deployment
 The verison deployed does not make use of any backend.
-[application-0-wdqmw.mongodbstitch.com/](application-0-wdqmw.mongodbstitch.com/)
+[https://application-0-wdqmw.mongodbstitch.com/](https://application-0-wdqmw.mongodbstitch.com/)
 
 ## Installation
 Just copy the following commands.
