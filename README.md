@@ -14,3 +14,9 @@ Just copy the following commands.
 git clone https://github.com/ElTragon/feedBackapp_Trav.git
 npm install # or yarn install
 ```
+
+## Run
+```bash
+npm run dev
+```
+This will run JSON-server on port :5000 and React on port :3000
